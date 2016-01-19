@@ -39,7 +39,7 @@ public class Lab2 {
 	    // with the narrator.
 	    // Calculate the number going to St. Ives
 	    total = 1 + numWives + numWives * numSacksPerWife * numCatsPerSack +
-      numWives * numSacksPerWife * numCatsPerSack * numKitsPerCat;
+          numWives * numSacksPerWife * numCatsPerSack * numKitsPerCat;
 	} else {
 	    // Otherwise, only the narrator is going!
 	    total = 1;
